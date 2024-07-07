@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /> , I'm EL FAHIM SANA</h1>
 <h3 align="center">A passionate data analyst & AI from Morocco,</h3>
 
-<img align="right" alt="Coding" width="500" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd285NWd5NW52Z2N0ano5enlseG5qOW9iNXF1bGw5eWM0ZHM1enZrZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WVNnyv96C3iltOFutg/giphy.webp">
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd285NWd5NW52Z2N0ano5enlseG5qOW9iNXF1bGw5eWM0ZHM1enZrZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WVNnyv96C3iltOFutg/giphy.webp">
 
 - 🔭 I’m currently studying on **Data Analysis and AI**
 
